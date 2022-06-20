@@ -1,0 +1,107 @@
+16:29:42:272 (12376) > --- NIXXES log start ---
+16:29:42:273 (12376) > 
+16:29:42:275 (12376) > Memory statistics:
+16:29:42:276 (12376) >   Total RAM = 7.8 GB (8013 MB)
+16:29:42:278 (12376) >   Avail RAM = 3.0 GB (3034 MB)
+16:29:42:279 (12376) >   Total virtual memory = 4.0 GB (4095 MB)
+16:29:42:281 (12376) >   Avail virtual memory = 3.4 GB (3452 MB)
+16:29:42:283 (12376) > OS = Windows 8 (build 9200)
+16:29:42:284 (12376) > Starting Tomb Raider v1.01.748.0
+16:29:42:292 (12376) > [Main] Current directory: D:\Tomb Raider
+16:29:42:294 (12376) > Mounted TITLE.000
+16:29:42:296 (12376) > Mounted PATCH.000
+16:29:42:298 (12376) > Mounted PATCH2.000
+16:29:42:975 (12376) > [Render] PCDeviceManager constructor start
+16:29:43:098 (12376) > [Render] PCDeviceManager constructor end
+16:29:43:186 (12376) > [Render] PCDX11DeviceManager constructor start
+16:29:43:188 (12376) > D3D Adapter Information:
+16:29:43:189 (12376) > Adapter Description: NVIDIA GeForce RTX 3050 Laptop GPU
+16:29:43:191 (12376) > VendorID: 10de
+16:29:43:192 (12376) > DeviceID: 25a2
+16:29:43:193 (12376) > Revision: a1
+16:29:43:194 (12376) > NVidia hardware detected. Attemping to load NVAPI...
+16:29:43:196 (12376) > NVAPI loaded succesfully.
+16:29:43:197 (12376) > NvAPI_Stereo_IsEnabled() returned an error: -219
+16:29:43:225 (12376) > Reducing mouse lag by setting frame latency to 1...
+16:29:43:238 (12376) > D3D reports feature level 11 is supported.
+16:29:43:239 (12376) > NVAPI Depth Bounds Test supported.
+16:29:43:248 (12376) > D3D Adapter Information:
+16:29:43:250 (12376) > Adapter Description: Intel(R) UHD Graphics
+16:29:43:251 (12376) > VendorID: 8086
+16:29:43:252 (12376) > DeviceID: 9bc4
+16:29:43:253 (12376) > Revision: 5
+16:29:43:272 (12376) > Reducing mouse lag by setting frame latency to 1...
+16:29:43:273 (12376) > D3D reports feature level 11 is supported.
+16:29:43:275 (12376) > D3D reports no hardware multiple command list support.
+16:29:43:280 (12376) > [Render] Adapter I has no outputs!
+16:29:43:282 (12376) > D3D Adapter Information:
+16:29:43:283 (12376) > Adapter Description: Microsoft Basic Render Driver
+16:29:43:284 (12376) > VendorID: 1414
+16:29:43:285 (12376) > DeviceID: 8c
+16:29:43:286 (12376) > Revision: 0
+16:29:43:288 (12376) > Reducing mouse lag by setting frame latency to 1...
+16:29:43:289 (12376) > D3D reports feature level 11 is supported.
+16:29:43:291 (12376) > D3D reports no hardware multiple command list support.
+16:29:43:292 (12376) > [Render] Adapter M has no outputs!
+16:29:43:293 (12376) > [Render] PCDX11DeviceManager constructor end
+16:30:33:077 (12376) > CPU count: logical = 12, cores = 6, physical = 1
+16:30:33:089 (12376) > D3D Adapter Information:
+16:30:33:090 (12376) > Adapter Description: NVIDIA GeForce RTX 3050 Laptop GPU
+16:30:33:091 (12376) > VendorID: 10de
+16:30:33:093 (12376) > DeviceID: 25a2
+16:30:33:094 (12376) > Revision: a1
+16:30:33:096 (12376) > NVidia hardware detected. Attemping to load NVAPI...
+16:30:33:097 (12376) > NVAPI loaded succesfully.
+16:30:33:098 (12376) > NvAPI_Stereo_IsEnabled() returned an error: -140
+16:30:34:255 (12376) > Reducing mouse lag by setting frame latency to 1...
+16:30:34:257 (12376) > D3D reports feature level 11 is supported.
+16:30:34:259 (12376) > NVAPI Depth Bounds Test supported.
+16:30:34:261 (17696) > CreateSwapChain() = 0
+16:30:34:262 (17696) > MakeWindowAssociation() = 0
+16:30:34:375 (17696) > SetFullscreenState() = 0
+16:30:34:465 (12376) > [Render] Using DirectX 11
+16:30:34:642 (12376) > Initalizing audio...
+16:30:35:531 (12376) > Audio device found. FMOD reports 2 driver(s).
+16:30:35:534 (12376) > Audio Driver Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+16:30:35:535 (12376) > Speaker Mode: 6
+16:30:39:163 (12376) > [DLC] mounted pack 1 - 0x00000001 (steam id=208790)
+16:30:39:164 (12376) > [DLC] mounted pack 1 - 0x00000002 (steam id=208791)
+16:30:39:166 (12376) > [DLC] mounted pack 1 - 0x00000004 (steam id=208792)
+16:30:39:167 (12376) > [DLC] mounted pack 1 - 0x00000008 (steam id=208793)
+16:30:39:169 (12376) > [DLC] mounted pack 1 - 0x00000010 (steam id=208794)
+16:30:39:171 (12376) > [DLC] mounted pack 1 - 0x00010000 (steam id=208795)
+16:30:39:172 (12376) > [DLC] mounted pack 1 - 0x00020000 (steam id=208796)
+16:30:39:173 (12376) > [DLC] mounted pack 1 - 0x00040000 (steam id=208797)
+16:30:39:174 (12376) > [DLC] mounted pack 1 - 0x00100000 (steam id=208798)
+16:30:39:176 (12376) > [DLC] mounted pack 1 - 0x00200000 (steam id=208799)
+16:30:39:178 (12376) > [DLC] mounted pack 1 - 0x00400000 (steam id=208800)
+16:30:39:179 (12376) > [DLC] mounted pack 2 - 0x00000400 (steam id=208801)
+16:30:39:181 (12376) > [DLC] mounted pack 2 - 0x00000800 (steam id=208802)
+16:30:39:182 (12376) > [DLC] mounted pack 2 - 0x00001000 (steam id=208803)
+16:30:39:183 (12376) > [DLC] mounted pack 2 - 0x00002000 (steam id=208804)
+16:30:39:185 (12376) > [DLC] mounted pack 2 - 0x00004000 (steam id=208805)
+16:30:39:186 (12376) > [DLC] mounted pack 2 - 0x00100000 (steam id=208806)
+16:30:39:187 (12376) > [DLC] mounted pack 2 - 0x00200000 (steam id=208807)
+16:30:39:188 (12376) > [DLC] mounted pack 2 - 0x00400000 (steam id=208808)
+16:30:39:189 (12376) > [DLC] mounted pack 2 - 0x10000000 (steam id=208815)
+16:30:39:190 (12376) > [DLC] mounted pack 3 - 0x00000001 (steam id=208809)
+16:30:39:192 (12376) > [DLC] mounted pack 3 - 0x00000002 (steam id=208817)
+16:30:39:193 (12376) > [DLC] mounted pack 3 - 0x00000004 (steam id=208818)
+16:30:39:345 (12376) > [DLC] mounted DLC\PACK8.000 (steam id=208812, pack id=8)
+16:30:39:347 (12376) > [DLC] mounted DLC\PACK4.000 (steam id=208810, pack id=4)
+16:30:41:282 (12376) > OLWebServiceClient [Status:200] [DownloadEvent:Finished] [HttpError:OK] [ServerError:OK]
+16:30:52:566 (12376) > Request (SEM_Login) [Id:0] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+16:30:53:395 (12376) > Request (GetTodaysInfocast) [Id:1] failed ! [Status:0] [DownloadEvent:Server Error] [HttpError:Response Receive Failed] [ServerError:OK]
+16:30:56:210 (12376) > Request (GetOptionsSet) [Id:2] failed ! [Status:0] [DownloadEvent:Server Error] [HttpError:Response Receive Failed] [ServerError:OK]
+16:30:59:015 (12376) > Request (GetTodaysInfocast) [Id:3] failed ! [Status:0] [DownloadEvent:Server Error] [HttpError:Response Receive Failed] [ServerError:OK]
+16:31:25:591 (12376) > Request (GetTodaysInfocast) [Id:4] failed ! [Status:0] [DownloadEvent:Server Error] [HttpError:Response Receive Failed] [ServerError:OK]
+16:31:28:408 (12376) > Request (GetOptionsSet) [Id:5] failed ! [Status:0] [DownloadEvent:Server Error] [HttpError:Response Receive Failed] [ServerError:OK]
+16:31:46:107 (12376) > Player object AddRef laracroft: 1 => 2
+16:31:46:110 (12376) > Player object AddRef laracroft: 2 => 3
+16:31:46:116 (12376) > Player object AddRef laracroft: 3 => 4
+16:33:31:215 (12376) > ProbeAvailabilityCB: Service is available.
+16:34:21:286 (12376) > Player object RemRef laracroft: 4 => 3
+16:34:21:289 (12376) > Player object RemRef laracroft: 3 => 2
+16:34:21:291 (12376) > Player object RemRef laracroft: 2 => 1
+16:34:31:307 (12376) > Request (GetTodaysInfocast) [Id:6] failed ! [Status:0] [DownloadEvent:Server Error] [HttpError:Response Receive Failed] [ServerError:OK]
+16:34:32:876 (12376) > Exiting the game.
