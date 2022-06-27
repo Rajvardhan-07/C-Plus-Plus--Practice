@@ -22,7 +22,7 @@ int main()
 		int *ptr_i;
 		float *ptr_f;
 		string *ptr_s;
-		double *ptr_d;
+		int *ptr_d;
 		etc.
 	*/
 	// you can create a pointer by 
